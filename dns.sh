@@ -5,7 +5,7 @@
 
 sleep 5
 
-cd /opt/app/dns/
+cd /opt/app/DynDNS/
 
 source ./dns.conf
 
