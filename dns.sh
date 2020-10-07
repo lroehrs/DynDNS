@@ -5,7 +5,7 @@
 
 sleep 5
 
-cd /opt/app/DynDNS/
+cd "$(dirname "$0")"
 
 source ./dns.conf
 
