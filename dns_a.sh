@@ -1,6 +1,6 @@
 #!/bin/bash
 #####
-#Change DNS Settings in cloudflare for "nex.zone" like dyndns
+#Change A DNS records in cloudflare like DynDNS
 #####
 
 sleep 5
